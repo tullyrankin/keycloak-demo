@@ -20,6 +20,6 @@ docker-compose up
 
 There should now be 3 applications running:
 
-- App-1: [http://localhost:8001]()
-- App-2: [http://localhost:8002]()
-- App-3: [http://localhost:8003]()
+- App-1: [http://localhost:8001](http://localhost:8001)
+- App-2: [http://localhost:8002](http://localhost:8002)
+- App-3: [http://localhost:8003](http://localhsot:8003)
